@@ -1,9 +1,5 @@
 
 {
-    "response": [
-      {
-        "compatiblever": "1.0",
-        "versioncode": "1.0.1"
-      }
-    ]
-  }
+    "compatiblever": "1.0",
+    "versioncode": "1.0.1"
+}
